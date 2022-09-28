@@ -12,7 +12,7 @@ const Home: NextPage = () => {
                 />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
-            <main className="flex justify-center items-center h-screen w-screen bg-slate-800">
+            <main className="flex justify-center items-center min-h-screen w-screen bg-slate-800">
                 <h1 className="font-semibold text-4xl text-sky-500 ">
                     Hello World
                 </h1>
